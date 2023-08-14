@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Morelli01/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Morelli01/goit-react-hw-04-feedback/static/js/main.07d3183d.js",
+    "main.css": "/Morelli01/goit-react-hw-04-feedback/static/css/main.5d4c55a7.css",
+    "main.js": "/Morelli01/goit-react-hw-04-feedback/static/js/main.b62470d8.js",
     "index.html": "/Morelli01/goit-react-hw-04-feedback/index.html",
-    "main.7acaea2f.css.map": "/Morelli01/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Morelli01/goit-react-hw-04-feedback/static/js/main.07d3183d.js.map"
+    "main.5d4c55a7.css.map": "/Morelli01/goit-react-hw-04-feedback/static/css/main.5d4c55a7.css.map",
+    "main.b62470d8.js.map": "/Morelli01/goit-react-hw-04-feedback/static/js/main.b62470d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.5d4c55a7.css",
+    "static/js/main.b62470d8.js"
   ]
 }
